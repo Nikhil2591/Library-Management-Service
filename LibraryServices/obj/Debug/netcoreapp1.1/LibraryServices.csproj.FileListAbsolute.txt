@@ -1,0 +1,11 @@
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\LibraryServices\bin\Debug\netcoreapp1.1\LibraryServices.deps.json
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\LibraryServices\obj\Debug\netcoreapp1.1\LibraryServices.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\LibraryServices\obj\Debug\netcoreapp1.1\LibraryServices.AssemblyInfo.cs
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\LibraryServices\bin\Debug\netcoreapp1.1\LibraryServices.dll
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\LibraryServices\bin\Debug\netcoreapp1.1\LibraryServices.pdb
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\LibraryServices\bin\Debug\netcoreapp1.1\LibraryData.dll
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\LibraryServices\bin\Debug\netcoreapp1.1\LibraryData.pdb
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\LibraryServices\obj\Debug\netcoreapp1.1\LibraryServices.dll
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\LibraryServices\obj\Debug\netcoreapp1.1\LibraryServices.pdb
+C:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\Library Management Service\LibraryServices\obj\Debug\netcoreapp1.1\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\Library Management Service\LibraryServices\obj\Debug\netcoreapp1.1\LibraryServices.AssemblyInfoInputs.cache

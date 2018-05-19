@@ -1,0 +1,15 @@
+c:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\Library Management Service\Library Management Service\bin\Debug\netcoreapp1.1\Library Management Service.deps.json
+c:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\Library Management Service\Library Management Service\bin\Debug\netcoreapp1.1\Library Management Service.runtimeconfig.json
+c:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\Library Management Service\Library Management Service\bin\Debug\netcoreapp1.1\Library Management Service.runtimeconfig.dev.json
+c:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\Library Management Service\Library Management Service\bin\Debug\netcoreapp1.1\Library Management Service.dll
+c:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\Library Management Service\Library Management Service\bin\Debug\netcoreapp1.1\Library Management Service.pdb
+c:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\Library Management Service\Library Management Service\obj\Debug\netcoreapp1.1\Library Management Service.csprojResolveAssemblyReference.cache
+c:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\Library Management Service\Library Management Service\obj\Debug\netcoreapp1.1\Library Management Service.AssemblyInfo.cs
+c:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\Library Management Service\Library Management Service\obj\Debug\netcoreapp1.1\Library Management Service.dll
+c:\Users\Nikhil-i5\Documents\Visual Studio 2017\Projects\Library Management Service\Library Management Service\obj\Debug\netcoreapp1.1\Library Management Service.pdb
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\Library Management Service\bin\Debug\netcoreapp1.1\LibraryData.dll
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\Library Management Service\bin\Debug\netcoreapp1.1\LibraryData.pdb
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\Library Management Service\bin\Debug\netcoreapp1.1\LibraryServices.dll
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\Library Management Service\bin\Debug\netcoreapp1.1\LibraryServices.pdb
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\Library Management Service\obj\Debug\netcoreapp1.1\Library Management Service.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil-i5\documents\visual studio 2017\Projects\Library Management Service\Library Management Service\obj\Debug\netcoreapp1.1\Library Management Service.AssemblyInfoInputs.cache
